@@ -1,8 +1,8 @@
 $(document).ready(function () {
 	$("#nanoGallery1").nanoGallery({
 		kind: 'flickr',
-		userID: '133161750@N07',
-		photoset: '72157664247407754',
+		userID: 'snapandaccap',
+		photoset: '72157680808989323',
 
 		thumbnailWidth: 'auto',
 		thumbnailHeight: 200,
