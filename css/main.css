@@ -94,7 +94,17 @@ textarea {
 }
 
 footer.wrapper {
-	height: 65px;
+	height: auto;
+    text-align: center;
+}
+
+footer.wrapper img {
+    float: none;
+    margin: 0 0 .5em 0;
+}
+
+footer.wrapper p {
+    font-size: .85em;
 }
 
 .title {
